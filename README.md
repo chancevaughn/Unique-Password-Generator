@@ -18,7 +18,7 @@ This website will generate a unique password set to the parameters that you sele
 
 Once the user presses the "generate password" button, they are given multiple prompts to configure their password. Such as how long they would like their password to be. If the password should include lower or uppercase letters, numbers, and even special characters. At the conclusion of the prompts, the password is displayed on the screen.
 
-![Screenshot](website of image2)
+![Screenshot](https://github.com/chancevaughn/Unique-Password-Generator/blob/main/02-Homework/Assets/prompt-example-screenshot.png)
 
 ### The Code Magic
 
