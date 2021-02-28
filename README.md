@@ -10,7 +10,7 @@ Well this is the perfect website for you!
 
 This website will generate a unique password set to the parameters that you select. Once it has created a new, unique password for you, it will display it on the screen for you to view or copy.
 
-![Screenshot](website of the image)
+![Screenshot](https://github.com/chancevaughn/Unique-Password-Generator/blob/main/02-Homework/Assets/example-password-screenshot.png)
 
 ## How Does All of This Work?
 
@@ -24,15 +24,15 @@ Once the user presses the "generate password" button, they are given multiple pr
 
 JavaScript is star and heavy lifter of this project. From the time that the user clicks on the "generate password" button, the code goes into action. Multiple '.alert' prompts coupled with if/else statements store the users decisions and display what they've chosen back to them. 
 
-![Screenshot]()
+![Screenshot](https://github.com/chancevaughn/Unique-Password-Generator/blob/main/02-Homework/Assets/if-else-screenshot.png)
 
 If the user does want the prompted characters in their password, the code will '.push' that designated array into a 'prePassword' array. If they do not want those characters, then the code will alert them of their choice.
 
-![Screenshot]()
+![Screenshot](https://github.com/chancevaughn/Unique-Password-Generator/blob/main/02-Homework/Assets/push-screenshot.png)
 
 At the end the program will concat all of the selected arrays into one array. Then selected random characters from that list and add them to the password. It continues this until the requested length is met. After that, it prints the password on the website. Rinse and repeat. 
 
-![Screenshot]()
+![Screenshot](https://github.com/chancevaughn/Unique-Password-Generator/blob/main/02-Homework/Assets/generate-password-screenshot.png)
 
 Also, the password resets each time the button is pressed because the value is reset each time within the code.
 
